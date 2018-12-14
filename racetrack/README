@@ -1,3 +1,0 @@
-Arduino program which interfaces with 2 LDRs and 1 LCD to keep 2 independent times. 
-Intended for use in conjuction with laser pointers aimed at the LDRs.
-Time begins after 3 seconds and time ends when the LDR reading falls below the thres hold (an object interupts the laser pointer).
